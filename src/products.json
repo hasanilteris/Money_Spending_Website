@@ -1,0 +1,124 @@
+
+[
+    {
+        "id": 74,
+        "title": "1 TL",
+        "price": 0.068,
+        "image": "https://iasbh.tmgrup.com.tr/802b79/0/0/0/0/0/0?u=http://i.sabah.com.tr/sb/galeri/dunya/1-tlnin-diger-ulke-paralari-karsisindaki-degeri/1.jpg"
+      },
+      {
+        "id": 4,
+        "title": "100 TL",
+        "price": 6.79,
+        "image": "https://i.ibb.co/vPpNrdb/Ekran-Resmi-2021-04-16-13-38-07.png"
+      },
+    {
+        "id" : 2,
+        "title" : "Nike Şort",
+        "price" : 50,
+        "image" : "https://urbanriders.com/wp-content/uploads/2019/10/3.1.png"
+    },
+    {
+        "id" : 3,
+        "title" : "Gömlek",
+        "price" : 80,
+        "image" : "https://www.ydsshop.com/Uploads/UrunResimleri/yds-tactical-gomlek--bej-9027.jpg"
+    },
+    {
+        "id" : 15,
+        "title" : "Bisiklet",
+        "price" : 130,
+        "image" : "https://media.istockphoto.com/vectors/mountain-bike-icon-vector-id607736004?s=612x612"
+    },
+    {
+        "id" : 5,
+        "title" : "Iphone 13 Pro Max",
+        "price" : 1100,
+        "image" : "https://www.mytrendyphone.eu/images/Spigen-Optik-tR-Camera-Lens-Tempered-Glass-Protector-for-iPhone-13-Pro-Max-8809811851311-Black-01102021-03-p.jpg"
+    },
+    {
+        "id": 30,
+        "title": "iPad Pro",
+        "price": 1700,
+        "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/TeoriV2-106818-1_large.jpg"
+      },
+    {
+        "id" : 1,
+        "title" : "Gucci Ayakkabı",
+        "price" : 2500,
+        "image" : "https://cdn03.ciceksepeti.com/cicek/kc4898255-1/XL/gucci-erkek-ayakkabi-576136-a38v0-9062-kc4898255-1-0595d9f4f7e94ac580f8708ec40af245.jpg"
+    },
+    {
+        "id" : 7,
+        "title" : "Macbook Pro",
+        "price" : 3500,
+        "image" : "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mk1h3tua-637706782422917345.jpg"
+    },
+    {
+        "id" : 9,
+        "title" : "Muscle",
+        "price" : 60000,
+        "image" : "https://eskipaper.com/images/green-car-2.jpg"
+    },
+    {
+        "id" : 8,
+        "title" : "GTR R-35",
+        "price" : 130000,
+        "image" : "http://sogepower.com/public/uploads/bf4592a97520b69dd3d6efa068d9f480.png"
+    },
+    {
+        "id" : 10,
+        "title" : "Ev",
+        "price" : 300000,
+        "image" : "https://media.istockphoto.com/photos/house-picture-id171379069?k=20&m=171379069&s=612x612&w=0&h=XjeFrnna5Bj2ifGejf1pcjk1iD4svHWqpklkYyUGfzU="
+    },
+    {
+        "id" : 11,
+        "title" : "Malikane",
+        "price" : 2500000,
+        "image" : "https://previews.123rf.com/images/marrishuanna/marrishuanna1701/marrishuanna170100034/71243274-vector-illustration-big-old-two-storey-house-on-a-white-background.jpg"
+    },
+    {
+        "id" : 12,
+        "title" : "Yat",
+        "price" : 8000000,
+        "image" : "https://thumbs.dreamstime.com/b/white-pleasure-yacht-isolated-white-background-d-render-30254552.jpg"
+    },
+    {
+        "id" : 14,
+        "title" : "Helikopter",
+        "price" : 30000000,
+        "image" : "https://previews.123rf.com/images/whitecity/whitecity1907/whitecity190700229/127418404-helic%C3%B3ptero-negro-aislado-sobre-fondo-blanco-representaci%C3%B3n-3d-.jpg"
+    },
+    {
+        "id" : 13,
+        "title" : "Cruise Ship",
+        "price" : 350000000,
+        "image" : "https://previews.123rf.com/images/scottff72/scottff721506/scottff72150600007/40862970-kreuzfahrtschiff-auf-einem-isolierten-wei%C3%9Fen-hintergrund-.jpg"
+    },
+    {
+        "id" : 16,
+        "title" : "Samsunspor",
+        "price" : 2000000000,
+        "image" : "https://upload.wikimedia.org/wikipedia/tr/d/dc/Samsunspor_logo_2.png"
+    },
+    {
+        "id" : 17,
+        "title" : "Liverpool",
+        "price" : 3500000000,
+        "image" : "https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png"
+    },
+    {
+        "id" : 19,
+        "title" : "Island",
+        "price" : 20000000000,
+        "image" : "https://thumbs.dreamstime.com/b/picture-island-white-background-vector-illustration-181187208.jpg"
+    },
+    {
+        "id" : 20,
+        "title" : "Apple",
+        "price" : 100000000000,
+        "image" : "https://cdn.dsmcdn.com/ty278/product/media/images/20211223/14/15506272/133062688/1/1_org_zoom.jpg"
+    }
+    
+]
